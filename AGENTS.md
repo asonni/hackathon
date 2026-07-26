@@ -28,6 +28,7 @@ Do not load any skill by default. Check the task first — only invoke a skill i
 - `/recover` — when something is broken and the fix isn't obvious
 - `/remember` — at the start of a new session to restore context,
   and at the end to save progress
+- `/caveman-commit` — **always** when I write "Stage all changes and commit"
 
 ## Session continuity
 
